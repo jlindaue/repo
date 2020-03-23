@@ -1,3 +1,4 @@
+#do not use any proxy!!!
 # LXC generated .repo file
 [lxc-install]
 name=Oracle Linux 7.7 (aarch64)
