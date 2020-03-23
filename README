@@ -1,0 +1,2 @@
+ol7-latest repo doesnt work - download package using wget
+after createrepo use: yum whatprovides nejakablbost
