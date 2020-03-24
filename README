@@ -1,2 +1,7 @@
+BEFORE:
+yum install git
+export https_proxy="http://www-proxy.us.oracle.com:80"
+
+
 ol7-latest repo doesnt work - download package using wget
 after createrepo use: yum whatprovides nejakablbost
