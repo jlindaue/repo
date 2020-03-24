@@ -8,4 +8,4 @@ mv /etc/yum.repos.d/epel.repo /root/repo/epel.repo.orig
 mv /root/repo/yum.conf /etc/yum.conf
 mv /root/repo/lxc-install.repo /etc/yum.repos.d/lxc-install.repo
 mkdir /root/repo/repo
-createrepo /root/repo/repo --update
+createrepo /root/repo/repo
