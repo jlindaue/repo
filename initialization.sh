@@ -1,6 +1,6 @@
 #!/bin/bash
 #set this as executable
-
+export https_proxy=""
 yum install createrepo vim wget
 mv /etc/yum.conf /root/repo/yum.conf.orig
 mv /etc/yum.repos.d/lxc-install.repo /root/repo/lxc-install.repo.orig
