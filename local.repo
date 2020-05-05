@@ -1,0 +1,6 @@
+[local]
+name=local
+baseurl=file:///root/repo/repo
+priority=1
+enabled=1
+gpgcheck=0
