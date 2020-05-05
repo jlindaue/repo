@@ -1,6 +1,6 @@
 BEFORE:
 yum install git
 export https_proxy="http://www-proxy.us.oracle.com:80"
-x86 - change aarch64 to x86_64 in to_repo.sh
+./initialize.sh (x86)
 
 ol7-latest repo doesnt work - download package using wget
