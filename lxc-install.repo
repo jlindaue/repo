@@ -2,17 +2,7 @@
 # LXC generated .repo file
 [lxc-install]
 name=Oracle Linux 7.7 (aarch64)
-baseurl=http://yum-qa.oracle.com/repo/OracleLinux/OL7/7/base/aarch64/
-enabled=1
-skip_if_unavailable=1
-gpgcheck=0
-
-
-
-
-[epel-qa]
-name=Oracle Linux 7.7 (aarch64)
-baseurl=http://yum-qa.oracle.com/repo/OracleLinux/OL7/developer_EPEL/aarch64/
+baseurl=http://yum-qa.oracle.com/repo/OracleLinux/OL7/7/base/$basearch/
 enabled=1
 skip_if_unavailable=1
 gpgcheck=0
