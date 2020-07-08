@@ -1,5 +1,5 @@
 BEFORE:
-yum install git
+yum install -y git
 export https_proxy="http://www-proxy.us.oracle.com:80"
 git clone https://github.com/jlindaue/repo.git
 cd repo
